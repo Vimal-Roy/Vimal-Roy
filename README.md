@@ -2,7 +2,7 @@
 <p align="left">Management graduate transformed into a techie well experienced in,</p>
 
 - Software requirement management & Team Management, 
-- Full Stack engineering(ReactJs, NodeJs,NoSQL & dozen of AWS services) and,
+- Full Stack engineering(ReactJs, NodeJs,mySQL,NoSQL & dozen of AWS services) and,
 - DevOps
 
 💬 Ask me about **react,nodejs,aws,sql,docker..**
